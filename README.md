@@ -3,7 +3,7 @@ Docker Fundamentals WebApp
 
 The Docker Fundamentals repository contains the example Hello World Python WebApp
 
-## License/ this is almost impossible
+## License/ this is almost impossible.........
 
 Apache 2.0
 
